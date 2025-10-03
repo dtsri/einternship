@@ -1,0 +1,16 @@
+# Online sales data analysis
+# daily tasks - 6
+# This file reveals -
+Monthly revenue and order volumes indicate peak periods and seasonality, suggesting certain months outperform others.
+
+The analysis reveals that some products consistently lead in both sales amounts and the number of orders, identifying potential bestsellers.
+
+The highest-value orders are concentrated among a few products, potentially indicating higher price points or successful promotions.
+
+Average order value may fluctuate by month, reflecting either promotional activity or customer buying behavior shifts.
+
+No-sales or null-amount days could indicate either data gaps, holidays, or system outages—warranting a closer look at operations.
+
+The top product accounts for a significant portion of total orders, suggesting inventory or marketing focus.
+
+The sales trends highlight periods of low and high demand, which are valuable for staffing and inventory planning.
